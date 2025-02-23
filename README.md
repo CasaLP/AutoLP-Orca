@@ -65,10 +65,10 @@ Some commands require the whirlpool address, others require the position address
 ## Default Settings:
 
 - Min balance of SOL to always leave in wallet: 0.25
-- Min amount to swap and deposit into a position: $10
+- Min amount to swap and deposit into a position: 10 USD
 - Swap Loss: defined as a percentage for each pool in config/pool_settings.ts
 - Liquidity: 2% slippage allowance for deposits/withdrawals
-- Jito Tip: 75th percentile / min 50k / max 100k
+- Jito Tip: 75th percentile / min 50k / max 100k (lamports)
 
 ## Possible Future Features
 
